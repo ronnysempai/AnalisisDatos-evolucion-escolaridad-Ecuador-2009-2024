@@ -42,7 +42,9 @@ Este análisis tiene como objetivo identificar patrones, tendencias y disparidad
 
 ### 2. 🏞️ Comparación por Zona y Provincia (Top 5)
 
-![Matrícula escolar: Zona Rural vs. Urbana (Top 5 Provincias)](https://drive.google.com/file/d/1SC7MXClaIjO-i0p96SKNljQa2U1AC8A7/view?usp=sharing) <!-- Reemplaza con el link real de tu imagen -->
+![Matrícula escolar: Zona Rural vs. Urbana (Top 5 Provincias)](https://drive.google.com/file/d/1SC7MXClaIjO-i0p96SKNljQa2U1AC8A7/view?usp=sharing) 
+![alt text](https://github.com/ronnysempai/AnalisisDatos-evolucion-escolaridad-Ecuador-2009-2024/blob/main/EvolucionMatriculaEscolarPorProvincia2009-2025.png)
+<!-- Reemplaza con el link real de tu imagen -->
 
 *   **Pichincha y Guayas** lideran claramente en matrícula urbana, reflejando su población y desarrollo urbano.
 *   En zonas rurales, **Azuay y Loja** muestran un crecimiento sostenido, mientras que otras provincias mantienen niveles más bajos pero estables.
@@ -50,14 +52,20 @@ Este análisis tiene como objetivo identificar patrones, tendencias y disparidad
 
 ### 3. 👩‍🏫 Relación Estudiantes por Docente
 
-![Estudiantes/Docentes por zona (Rural vs. Urbana)](https://drive.google.com/file/d/1H13xlLw-Th05tTSc-BbzBf-MlXFvCwUr/view?usp=sharing) <!-- Reemplaza con el link real de tu imagen -->
+![Estudiantes/Docentes por zona (Rural vs. Urbana)]
+(https://drive.google.com/file/d/1H13xlLw-Th05tTSc-BbzBf-MlXFvCwUr/view?usp=sharing)
+![alt text](https://github.com/ronnysempai/AnalisisDatos-evolucion-escolaridad-Ecuador-2009-2024/blob/main/Estudiante_docente1.png)
+<!-- Reemplaza con el link real de tu imagen -->
 
 *   La relación estudiantes/docentes ha disminuido consistentemente desde 2009, indicando una mejora en la ratio de atención.
 *   La zona urbana siempre mantiene una relación más favorable (menos estudiantes por docente) que la zona rural, evidenciando una mayor presión en las escuelas rurales.
 
 ### 4. 🏫 Número de Instituciones Educativas
 
-![Instituciones Escolares: Zona Rural vs. Urbana (Top 5 Provincias)](https://drive.google.com/file/d/1XfrSe-FjhvMI8Xw5dbY4Rqp040Xkrpr8/view?usp=sharing) <!-- Reemplaza con el link real de tu imagen -->
+![Instituciones Escolares: Zona Rural vs. Urbana (Top 5 Provincias)]
+(https://drive.google.com/file/d/1XfrSe-FjhvMI8Xw5dbY4Rqp040Xkrpr8/view?usp=sharing)
+![alt text](https://github.com/ronnysempai/AnalisisDatos-evolucion-escolaridad-Ecuador-2009-2024/blob/main/institucionesPorZonaProvincia.png)
+<!-- Reemplaza con el link real de tu imagen -->
 
 *   El número de instituciones en zonas urbanas es mucho mayor que en rurales.
 *   Se observa una tendencia a la consolidación o cierre de instituciones en algunas provincias urbanas (como Guayas), mientras que en otras (como Pichincha) se mantiene estable o crece.
