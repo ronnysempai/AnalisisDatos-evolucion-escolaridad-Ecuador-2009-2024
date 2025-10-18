@@ -31,7 +31,8 @@ Este análisis tiene como objetivo identificar patrones, tendencias y disparidad
 
 ### 1. 📉 Evolución General de la Matrícula Escolar
 
-![Evolución de la matrícula escolar en Ecuador por zona (2009–2025)](https://drive.google.com/file/d/1Meyi43lgBOC4KzMHf1rVEye5msavbgbY/view?usp=sharing) <!-- Reemplaza con el link real de tu imagen -->
+![Evolución de la matrícula escolar en Ecuador por zona (2009–2025)]
+(https://drive.google.com/file/d/1Meyi43lgBOC4KzMHf1rVEye5msavbgbY/view?usp=sharing)<!-- Reemplaza con el link real de tu imagen -->
 
 *   La matrícula urbana es significativamente mayor que la rural.
 *   Se observa una caída drástica en 2022, probablemente relacionada con efectos post-pandemia, seguida de una recuperación parcial.
